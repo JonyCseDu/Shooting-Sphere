@@ -11,10 +11,10 @@ The Game that we created has infinite number of levels until you fail to finish 
 4. q: Exit the game
 The game finishes when all the Spheres are shot.
 
-3. Game design:
+### Game design:
 After starting the game the screen looks like this:
 
- Image: Screen_1(Spheres Moving)
+Image: Screen_1(Spheres Moving)
 The user moves Cursor to aim and shoot with left mouse click, which generates another sphere toward the aiming position. If any time the it hits a sphere the sphere is destroyed.
 
 Image: Screen_2(Shooting)
