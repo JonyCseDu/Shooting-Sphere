@@ -14,15 +14,14 @@ The game finishes when all the Spheres are shot.
 ## Game Play:
 ### Starting Screen:
 After starting the game the screen looks like this:
-
-Image: Screen_1(Spheres Moving)
+![Image: Screen_1(Spheres Moving)](https://raw.githubusercontent.com/JonyCseDu/Shooting-Sphere/master/1.jpg)
 
 ### Shooting:
 The user moves Cursor to aim and shoot with left mouse click, which generates another sphere toward the aiming position. If any time the it hits a sphere the sphere is destroyed.
+![Image: Screen_2(Shooting)](https://raw.githubusercontent.com/JonyCseDu/Shooting-Sphere/master/2.jpg)
 
-Image: Screen_2(Shooting)
 
 ### Play/Pause:
 User can pause the game by pressing space and continue again pressing space.
+![Image: Screen_3 (Game paused)](https://raw.githubusercontent.com/JonyCseDu/Shooting-Sphere/master/3.jpg)
 
-Image: Screen_3 (Game paused)
